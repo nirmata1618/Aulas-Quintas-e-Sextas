@@ -1,0 +1,9 @@
+Sistema para controle de acesso
+
+Prestador de Serviço { pf e pj = horario entrada e horario saída} Apartamento Visitado / Solicitante
+Visitante 
+Entrada e Saída dee Veiculos placa com MOD
+Controlar a entrega de correspondências
+Data recebimento
+Data Entrega
+	Pessoa que recebe (Destinatário)
